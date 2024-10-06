@@ -1,0 +1,6 @@
+At first rename the file to .cap then open in wireshark
+In wireshark open statistics and protocol hierarchy then apply line base text as filter
+Then follow with TCP Stream
+You will find a base64 cipher there.
+echo it in terminal to find the flag.
+flag{AFlagInPCAP}

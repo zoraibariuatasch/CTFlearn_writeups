@@ -1,0 +1,3 @@
+enter xxd command with (filename) 
+there will be a base64 encoded cipher beside a false flag CTFlearn{CTFIsEasy!!!} 
+Real flag is CTFlearn{SkiBanff}.

@@ -1,0 +1,6 @@
+download zbarimg then write the following commands
+zbarimg (filename)
+will get a base64 cipher echo it
+echo (base64cipher) | base64 -d
+decode the ceaser cipher
+flag: n0_body_f0rget_qr_code

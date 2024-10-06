@@ -1,0 +1,2 @@
+write strings (filename) and hit enter
+CTFlearn{Gandalf}

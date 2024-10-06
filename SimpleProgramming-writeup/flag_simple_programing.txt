@@ -1,0 +1,9 @@
+open vim on terminal and write and run the following python script:
+
+count = 0
+with open("data.dat") as f:
+    for line in f.readlines():
+        if line.count('0') % 3 ==0 or line.count('1') % 2 == 0:
+            count +=1
+        print (count)
+

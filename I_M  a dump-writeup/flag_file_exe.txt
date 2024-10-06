@@ -1,0 +1,5 @@
+run strings (filename) and hit enter
+CTFlearnH
+{fl4ggyfH
+l4g}H
+remove the H's

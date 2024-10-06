@@ -1,0 +1,7 @@
+Enter binwalk (filename) you will find one jpg and one password protected zip file. 
+cat Tux.jpg to find the password for the zip file
+Password : Linux12345
+unzip Tux.jpg and enter the password
+the flag file will be available
+cat flag
+CTFlearn{Linux_Is_Awesome}

@@ -1,0 +1,3 @@
+copy paste the command and start the game.
+You will need to enter a negative number -9999999 and start guessing, you will eventually find the flag.
+CTFlearn{d9029a08c55b936cbc9a30_i_wish_real_betting_games_were_like_this!}

@@ -1,0 +1,2 @@
+binwalk the jpg file and solve the equation
+flag is CTFlearn{I_Like_Math_2_5}

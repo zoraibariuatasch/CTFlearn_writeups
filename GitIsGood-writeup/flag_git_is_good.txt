@@ -1,0 +1,4 @@
+go to the directory then write the following commands
+git log 
+git show
+the flag is : flag{protect_your_git}

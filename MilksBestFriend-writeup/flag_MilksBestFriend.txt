@@ -1,0 +1,8 @@
+At first try using binwalk
+it will show a rar file.
+Use unrar to change the extension of the file type
+unrar x (filename)
+You will see a folder 1 open it
+will find a text file and a jpg file.
+use strings with the jpg file to find the flag.
+flag{eat_more_oreos}
