@@ -1,0 +1,11 @@
+use strings command to find the zip url and password
+then download and unzip the file
+go to the 'Did I Forget Again?'directory 
+use ls -a command to find hidden .cerb4 file
+rename it and use the following command
+
+mv .Processing.cerb4 .Processing.cerb4.zip
+
+unzip the file and you will find a jpg file
+paste the password and remove the U at the last
+the flag is flag{hack_complete}
