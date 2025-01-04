@@ -1,0 +1,4 @@
+open the apk file in an java decompiler
+navigate to sources to Mainactivity.java file
+decode the md5 hash file you will get to the flag
+CTFlearn{Spring2019_is_not_secure!}
