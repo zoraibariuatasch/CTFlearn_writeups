@@ -1,0 +1,4 @@
+use strings command to find the three base64 encodings
+first one is a decoy 
+change the 2nd one to XOR & use the 3rd one as key for it
+the flag is CTFlearn{Gandalf.BilboBaggins}
