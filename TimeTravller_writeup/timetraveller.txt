@@ -1,0 +1,3 @@
+use wayback machine and search nasa to 1996
+go to the exact date of 31 December and open the link you will find an email address there.
+the flag is CTFlearn{today@nasa.gov}
