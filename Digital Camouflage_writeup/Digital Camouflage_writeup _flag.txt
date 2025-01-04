@@ -1,0 +1,6 @@
+open the pcap file in wireshark
+go to statistics, protocol hierarchy then apply HTP as filter
+follow the TCP stream look for user id and password
+the flag is in base64 format
+the flag is PApdsjRTae
+
