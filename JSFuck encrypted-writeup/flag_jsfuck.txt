@@ -1,0 +1,4 @@
+copy the script and identify the cipher
+in this case it was JSFuck language
+decode it and the flag will be available
+the flag is flag{5uch_j4v4_5crip7_much_w0w}
