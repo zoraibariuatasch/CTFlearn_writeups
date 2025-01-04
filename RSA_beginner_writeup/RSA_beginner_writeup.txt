@@ -1,0 +1,4 @@
+here the value of n is very big so we have to factor it
+the value of the factors will be p & q
+change the flag from decimal to hexa decimal and then to ascii
+the flag is abctf{rs4_is_aw3s0m3}
