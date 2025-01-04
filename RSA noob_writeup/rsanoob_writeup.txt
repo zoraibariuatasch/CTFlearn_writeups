@@ -1,1 +1,6 @@
+make sure you fully understand what is RSA encryption and formulas to decrypt it.
+then run the python script in powershell.
+at the end make sure you change the form of the cipher text using hex(m) and bytes.fromhex(hex(m))[2:].decode()
+the flag is abctf{b3tter_up_y0ur_e}
+
 
