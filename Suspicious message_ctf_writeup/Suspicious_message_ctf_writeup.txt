@@ -1,0 +1,2 @@
+the given cipher is playfair cipher & the png file is the encryption key just copy paste it.
+the flag is CTFLEARN{PL4YF41R_1S_C00L_C1PHERRRR}
