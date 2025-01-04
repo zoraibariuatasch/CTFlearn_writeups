@@ -1,4 +1,4 @@
-use strings command to find the zip url and password
+use Strings command  in small letters to find the zip url and password
 then download and unzip the file
 go to the 'Did I Forget Again?'directory 
 use ls -a command to find hidden .cerb4 file
