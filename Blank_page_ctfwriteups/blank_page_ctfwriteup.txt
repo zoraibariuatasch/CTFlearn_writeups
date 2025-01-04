@@ -1,0 +1,8 @@
+the txt file won't give anything
+view the txt file in CyberChef, see the file is in binary
+here spaces are in '0' and dots are in '1'
+now remove the spaces with any python script
+here i have given one
+then you will find the binary data
+convert it from binary in CyberChef and you will get the flag
+the flag is - CTFlearn{If_y0u_r3/\d_thi5_you_pa553d}
