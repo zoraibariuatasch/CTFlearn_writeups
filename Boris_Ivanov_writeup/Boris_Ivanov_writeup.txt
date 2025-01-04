@@ -1,0 +1,9 @@
+You can use online stereogram solver or use stegsolve
+I have used stegsolve with the follwing commands
+
+wget http://www.caesum.com/handbook/Stegsolve.jar -O stegsolve.jar.
+java -jar stegsolve.jar
+
+Open the file and put Stereogram solver 
+adjust the offset to 102 & you will find the flag.
+flag(d0nt_m3s5_w1th_th3_KGB)
