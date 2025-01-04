@@ -1,0 +1,2 @@
+use strings, binwalk and then decode bas64 multiple times
+the flag is CTF{M1NI0NS_ARE_C00L}
