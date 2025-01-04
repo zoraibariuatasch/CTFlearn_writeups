@@ -1,0 +1,6 @@
+here clue is given the dimensions(height & width)
+from the picture we get the height*width (2016*900)
+the hex value of the height & width are 7E0 & 384 (you can convert from online)
+enter hexeditor to change the hex values to same value.
+save it and open the picture to view the flag.
+flag - urban_exploration
