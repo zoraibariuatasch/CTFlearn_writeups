@@ -1,1 +1,11 @@
+At first unrar the rar file
+you will see two png files
+use binwalk command in 3.png
+will find hidden png file
+enter foremost 3.png command 
+will get a folder named 'output'
+in it will find one txt file & a png file named 'png'
+in the png file will get two different png files
+combine the png files in stegsolve to get the flag
 
+the flag is - CTFlearn{Santa_1s_C0ming}
