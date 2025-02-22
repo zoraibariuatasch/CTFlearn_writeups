@@ -1,6 +1,8 @@
 you will need to change the header hex value with a hex editor of the file.
 as the file is gif so the value needs to be set as it's signature.
-i have used hexeditor to insert the values in the file. make sure to write fore
+i have used hexeditor to insert the values in the file. make sure to write
 the 39 and 61 hex value.
-after changing it run the gif file to view the base64 ecnoding.
+after changing it run the gif file to view the base64 encoding.
+slow down the frame rate to to view
+the base64 encoding is - ZmxhZ3tnMWZfb3JfajFmfQ==
 the flag is flag{g1f_or_j1f}
