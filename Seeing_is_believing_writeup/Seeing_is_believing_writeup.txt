@@ -1,0 +1,9 @@
+unzip the file
+cd to the message folder 
+will see a .me file 
+change it's extension to ogg (you can look from properties)
+run spectogram on the ogg file
+will get a qr code, change the color grading
+**usage of sonic visualizer will be very helpful**
+save the qr.png to decode it
+the flag is - the_flag_is{A_sP3c7r0grAm?!}
