@@ -1,0 +1,5 @@
+use zsteg --all command with the png file name
+look for the flag
+you can also solve it with python PIL
+but using zsteg was far more easier
+the flag is - CTFlearn{ascii_pixel_flag}
