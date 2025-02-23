@@ -1,0 +1,9 @@
+at first binwalk the file 
+you will see one rar & mp3 file
+the rar file needs pass 
+use spectogram on mp3 file to get pass for the rar file
+you can use any spectogram in this case
+the pass is - sp3ctrum_1s_y0ur_fr13nd
+after opening the rar file it will have txt file
+with base64 encoding decode it to get the flag
+the flag is - f0r3n51cs_ma5t3r
